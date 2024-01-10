@@ -23,6 +23,10 @@ Delve into the codebase of each solution to assess code quality and performance:
 - `app/(examples)/rtk/store.tsx` for Redux Toolikt
 - `app/(examples)/zustand/store.ts` for Zustand
 
+
+<img width="1419" alt="Screenshot 2024-01-10 at 16 57 05" src="https://github.com/mtahagocer/comparison-of-state-management-tools/assets/46215831/eb33cacb-d165-4b5e-8753-7bc72d163034">
+
+
 ### Getting Started
 
 
